@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+@theme inline {
+  --color-cream: #fffaf5;
+  --color-cocoa: #382521;
+  --color-berry: #a5164b;
+  --color-berry-dark: #83113c;
+  --color-muted: #81736d;
+  --color-line: #eadfd6;
+  --color-surface: #fffdf9;
+  --color-gold: #f4c99c;
+  --font-sans: var(--font-rubic), Rubic, Arial, Helvetica, sans-serif;
+  --font-serif: var(--font-rubic), Rubic, Arial, Helvetica, sans-serif;
+  --font-numbers: Arial, Helvetica, sans-serif;
+}
